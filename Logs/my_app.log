@@ -1,0 +1,61 @@
+2025-03-06 07:26:04,385:INFO: ********** verifiy home page**************
+2025-03-06 07:26:06,349:INFO: **********getting tile*****Welcome: Mercury Tours
+2025-03-06 07:26:06,481:INFO: ******** successfull title********
+2025-03-06 07:26:08,414:INFO: ***********getting login page title********
+2025-03-06 07:26:08,415:INFO: *********successfull login page title*********
+2025-03-06 07:29:02,238:INFO: ********** verifiy home page**************
+2025-03-06 07:29:02,246:INFO: *******verfiy login page**********
+2025-03-06 07:29:04,831:INFO: **********getting tile*****Welcome: Mercury Tours
+2025-03-06 07:29:04,951:INFO: ******** successfull title********
+2025-03-06 07:29:06,770:INFO: ***********getting login page title********
+2025-03-06 07:29:06,772:INFO: *********successfull login page title*********
+2025-03-06 07:31:52,286:INFO: ********** verifiy home page**************
+2025-03-06 07:31:52,299:INFO: *******verfiy login page**********
+2025-03-06 07:31:54,906:INFO: **********getting tile*****Welcome: Mercury Tours
+2025-03-06 07:31:55,097:INFO: ******** successfull title********
+2025-03-06 07:31:56,754:INFO: ***********getting login page title********
+2025-03-06 07:31:56,754:INFO: *********successfull login page title*********
+2025-03-06 07:31:59,733:INFO: ******* Verifying login page **********
+2025-03-06 07:32:03,793:INFO: *********** Getting login page title ********
+2025-03-06 07:32:03,793:INFO: ********* Successfully logged in *********
+2025-03-06 07:32:03,926:INFO: ******* Verifying login page **********
+2025-03-06 07:32:06,026:INFO: *********** Getting login page title ********
+2025-03-06 07:32:06,026:INFO: *************failed login page title**************
+2025-03-06 07:32:06,193:INFO: ******* Verifying login page **********
+2025-03-06 07:32:08,909:INFO: *********** Getting login page title ********
+2025-03-06 07:32:08,909:INFO: *************failed login page title**************
+2025-03-06 07:38:17,611:INFO: ********** verifiy home page**************
+2025-03-06 07:38:17,617:INFO: *******verfiy login page**********
+2025-03-06 07:38:21,038:INFO: **********getting tile*****Welcome: Mercury Tours
+2025-03-06 07:38:21,179:INFO: ******** successfull title********
+2025-03-06 07:38:23,963:INFO: ***********getting login page title********
+2025-03-06 07:38:23,964:INFO: *********successfull login page title*********
+2025-03-06 07:38:25,809:INFO: ******* Verifying login page **********
+2025-03-06 07:38:29,834:INFO: *********** Getting login page title ********
+2025-03-06 07:38:29,834:INFO: ********* Successfully logged in *********
+2025-03-06 07:38:29,936:INFO: login is pass
+2025-03-06 07:38:29,945:INFO: ******* Verifying login page **********
+2025-03-06 07:38:32,238:INFO: *********** Getting login page title ********
+2025-03-06 07:38:32,238:INFO: *************failed login page title**************
+2025-03-06 07:38:32,352:INFO: login is fail
+2025-03-06 07:38:32,374:INFO: ******* Verifying login page **********
+2025-03-06 07:38:34,410:INFO: *********** Getting login page title ********
+2025-03-06 07:38:34,411:INFO: *************failed login page title**************
+2025-03-06 07:38:34,540:INFO: login is fail
+2025-03-06 07:44:47,243:INFO: *******verfiy login page**********
+2025-03-06 07:44:47,282:INFO: ********** verifiy home page**************
+2025-03-06 07:44:49,749:INFO: **********getting tile*****Welcome: Mercury Tours
+2025-03-06 07:44:49,904:INFO: ******** successfull title********
+2025-03-06 07:44:51,997:INFO: ***********getting login page title********
+2025-03-06 07:44:51,998:INFO: *********successfull login page title*********
+2025-03-06 07:44:54,448:INFO: ******* Verifying login page **********
+2025-03-06 07:44:58,349:INFO: *********** Getting login page title ********
+2025-03-06 07:44:58,349:INFO: ********* Successfully logged in *********
+2025-03-06 07:44:58,487:INFO: login is pass
+2025-03-06 07:44:58,498:INFO: ******* Verifying login page **********
+2025-03-06 07:45:00,865:INFO: *********** Getting login page title ********
+2025-03-06 07:45:00,865:INFO: *************failed login page title**************
+2025-03-06 07:45:00,973:INFO: login is fail
+2025-03-06 07:59:43,914:INFO: ********** verifiy home page**************
+2025-03-06 07:59:46,375:INFO: **********getting tile*****Welcome: Mercury Tours
+2025-03-06 07:59:46,526:INFO: ******** successfull title********

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PLokeshProject/.idea/PLokeshProject.iml" filepath="$PROJECT_DIR$/../PLokeshProject/.idea/PLokeshProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hybirdnoncommerce.iml" filepath="$PROJECT_DIR$/.idea/hybirdnoncommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hybridframework/.idea/hybridframework.iml" filepath="$PROJECT_DIR$/../hybridframework/.idea/hybridframework.iml" />
+    </modules>
+  </component>
+</project>
